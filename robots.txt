@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vertypt.github.io/sitemap.html.gz
+Sitemap: https://vertypt.github.io/app/sitemap.html.gz
+Sitemap: https://vertypt.github.io/assets/sitemap.html.gz
+Sitemap: https://vertypt.github.io/css/sitemap.html.gz
+Sitemap: https://vertypt.github.io/data/sitemap.html.gz
+Sitemap: https://vertypt.github.io/includes/sitemap.html.gz
+Sitemap: https://vertypt.github.io/item/sitemap.html.gz
+Sitemap: https://vertypt.github.io/src/sitemap.html.gz
